@@ -13,27 +13,27 @@ IF IT AINT BROKE DONT FIX IT @!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 **The checklist **
 
-MAC Address:
-Chip name:
-Flash chip size in MB: 
+    MAC Address:
+    Chip name:
+    Flash chip size in MB: 
 
-\[ ] Prep
-    \[ ] Go to bios on thinkpad, then press F1
+    [ ] Prep
+    [ ] Go to bios on thinkpad, then press F1
     if EC version (Embedded Controller) is different than 1.06 need to update it  https://thonkpeasant.xyz/guides/other/starting.html
-    \[ ] update EC
-    \[ ] write down MAC address: 
+    [ ] update EC
+    [ ] write down MAC address: 
 
-\[ ] Dissasembly 
-    \[ ] take apart thinkpad
+    [ ] Dissasembly 
+    [ ] take apart thinkpad
     https://thonkpeasant.xyz/guides/flashing/t400-libreboot.html
-    \[ ] for each screw unscrewed, mark the location with tape and a number
+    [ ] for each screw unscrewed, mark the location with tape and a number
         each screw then gets attached with tape to something with the same number
         this can then be used later starting from high numbers and going to low so the order is conserved.
 
     [ ] separate out motherboard from case/chassis
 
-\[ ] Librebooting
-    \[ ] clean around connectors with toothbrush and isopropyl alcohol if needed
+    [ ] Librebooting
+    [ ] clean around connectors with toothbrush and isopropyl alcohol if needed
 
     [ ] take picture of bios chip and look up specific pin configuration
     [ ] Write down Chip Name:
@@ -53,9 +53,9 @@ Flash chip size in MB:
 
     [ ] Go to this: 
     https://mirrors.mit.edu/libreboot/testing/20221214/roms/
-\[ ] CTRL+F "{thinkpad number}\_{CHIP SIZE IN MB}"
-    \[ ] download the .tar.xz version (be careful :D)
-    \[ ] open it and cd into it 
+    [ ]CTRL+F "{thinkpad number}\_{CHIP SIZE IN MB}"
+    [ ] download the .tar.xz version (be careful :D)
+    [ ] open it and cd into it 
 
     [ ] flashrom --programmer ch341a_spi -w
     (should pop up a bunch of stuff that are .roms starting with ChangeLog and NEWS maybe)
@@ -67,10 +67,16 @@ Flash chip size in MB:
     [ ] unplug usb once it says VERIFIED
     [ ] remove clip attaching to bios chip
 
-\[ ] Cooling mod + paint (?)
-https://thonkpeasant.xyz/guides/other/cool.html
+    [ ] Cooling mod + paint (?)
+    https://thonkpeasant.xyz/guides/other/cool.html
 
-\[ ] quad-core mod
-https://thonkpeasant.xyz/guides/other/quad.html
+    [] quad-core mod
+    https://thonkpeasant.xyz/guides/other/quad.html
 
-\[ ] re-assembly, do all steps in reverse, start from highest number screw and work down.
+    [ ] re-assembly, do all steps in reverse, start from highest number screw and work down.
+    
+    
+![beloved](https://user-images.githubusercontent.com/13643473/227591011-5624e770-bea5-4aa1-81e5-db50cedb9fdc.jpg)
+   
+
+asdiluhfasdf there she is :D 
