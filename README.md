@@ -1,15 +1,15 @@
 # libreboot-checklist
 copy and paste this checklist for smooth librebooting !
 
-_note about ch341a data line: if you think the data line voltage is going to fry the bios chip, test the following:
-_1. current output
-_2. voltage output WHILE THE CONTROLLER IS CONNECTED
+note about ch341a data line: if you think the data line voltage is going to fry the bios chip, test the following:
+1. current output
+2. voltage output WHILE THE CONTROLLER IS CONNECTED
 
-_I think you will quickly realize that any concerns of the controller frying the bios chip are very silly and based in rumor
-_It worked for me, and I've looked all over and only ever heard (like 5) people saying "I used to use the ch341a programmer on 50+ thinkpads and LUCKILY never had any problems, and thankfully realized before I fried a computer about the data line being at a dangerous voltage"
+I think you will quickly realize that any concerns of the controller frying the bios chip are very silly and based in rumor
+It worked for me, and I've looked all over and only ever heard (like 5) people saying "I used to use the ch341a programmer on 50+ thinkpads and LUCKILY never had any problems, and thankfully realized before I fried a computer about the data line being at a dangerous voltage"
 Seems silly that these people didn't check the god damn voltage while connected >????XD(IO lmao 
 IF IT AINT BROKE DONT FIX IT @!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-(annecdotally worked for me perfectly first try with no issues and I did some ridiculous daisy chaining with both usb extension cables and like 4 dupont cables)_
+(annecdotally worked for me perfectly first try with no issues and I did some ridiculous daisy chaining with both usb extension cables and like 4 dupont cables)
 
 **The checklist **
 
