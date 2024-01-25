@@ -7,7 +7,7 @@ note about ch341a data line: if you think the data line voltage is going to fry 
 
 I think you will quickly realize that any concerns of the controller frying the bios chip are very silly and based in rumor
 Annecdotally, it worked for me, and I've looked all over and only ever heard (like 5) people saying "I used to use the ch341a programmer on 50+ thinkpads and LUCKILY never had any problems, and thankfully realized before I fried a computer about the data line being at a dangerous voltage"
-Seems silly that these people didn't check the god damn voltage while connected >????XD(IO lmao 
+Seems silly that these people didn't check the god damn voltage while connected IO lmao 
 IF IT AINT BROKE DONT FIX IT @!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 (Worked for me perfectly first try with no issues and I did some ridiculous daisy chaining with both usb extension cables and like 4 dupont cables)
 
