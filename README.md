@@ -11,7 +11,7 @@ Seems silly that these people didn't check the god damn voltage while connected 
 IF IT AINT BROKE DONT FIX IT @!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 (Worked for me perfectly first try with no issues and I did some ridiculous daisy chaining with both usb extension cables and like 4 dupont cables)
 
-![conversiontherapy](https://user-images.githubusercontent.com/13643473/227591011-5624e770-bea5-4aa1-81e5-db50cedb9fdc.jpg)
+![conversiontherapy](https://github.com/robingould/libreboot-checklist/blob/main/conversiontherapy.png?raw=true)
 
 **The checklist **
 
